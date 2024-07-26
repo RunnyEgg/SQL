@@ -16,7 +16,7 @@ In this repository, you'll find a variety of SQL scripts showcasing my skills an
 
 ### Contact
 
-If you have any questions or would like to discuss my work, please feel free to reach out via [LinkedIn](https://www.linkedin.com/in/andrewskomra/) or [email](mailto:andrewjskomra@gmail.com).
+If you have any questions or would like to discuss my work, please feel free to reach out via [LinkedIn](https://www.linkedin.com/in/andrewskomra/) or [email](andrewjskomra@gmail.com).
 
 ---
 
